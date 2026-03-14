@@ -1,9 +1,48 @@
-# 👨‍💻 Carlos Ramírez
+<!-- BANNER SUPERIOR -->
 
-Tech Lead • Senior Frontend Engineer • Agile Delivery Leader
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=240&section=header&text=Carlos%20%7C%20Senior%20Frontend%20Engineer&fontSize=42&fontColor=ffffff"/>
+</p>
 
-Building scalable products, leading engineering teams and delivering high-impact digital platforms.
+<h2 align="center">
+Senior Frontend Developer • Agile Delivery Leader • Scrum Master
+</h2>
 
+<p align="center">
+Arquitectura Frontend • SaaS Platforms • Agile Leadership
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Baracoj&color=blue)
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I am a **Senior Frontend Developer and Agile Delivery Leader** with experience building digital platforms for:
+
+- financial institutions
+- education platforms
+- healthcare systems
+- SaaS products
+
+My work focuses on **scalable frontend architecture, user-centric design, and high-performance web applications**.
+
+I also lead agile teams to **deliver continuous value and improve product delivery metrics**.
+
+---
+
+# 🚀 Professional Impact
+
+✔ Led frontend architecture redesigns for banking platforms  
+✔ Improved UX and performance in large-scale web systems  
+✔ Guided agile teams using Scrum and Agile delivery practices  
+✔ Built SaaS platforms with multi-tenant architecture  
+
+---
 ---
 
 # 🚀 Career Impact
@@ -21,68 +60,152 @@ Building scalable products, leading engineering teams and delivering high-impact
 
 # 🧠 Tech Stack
 
-React • JavaScript • TypeScript  
-Frontend Architecture  
-Agile Delivery  
-Engineering Management  
-System Design  
-Performance Optimization  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,docker,figma,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Baracoj&theme=transparent)
+
+</p>
+
+<p align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baracoj&layout=compact)
+
+</p>
 
 ---
 
 # 🧩 Featured Projects
 
-### 🦷 DENTSI
-Dental clinic SaaS platform.
+## 🦷 DENTSI
 
-### 📄 TramiPlus
-Document management platform.
+SaaS platform for dental clinic management.
 
-### 🏗 Arqui+
-Construction budget automation platform.
+Key features:
+
+- patient management
+- secure authentication
+- multi-user architecture
+- cloud backend
+- medical dashboards
 
 ---
 
-# 🏢 Experience
+## 📄 TramiPlus
 
-### Senior Frontend Developer – BC Tecnología
-Led React architecture and mentoring for frontend teams.
+Document management platform for personal and family documentation.
 
-### Tech Lead / Scrum Master – Digilart
-Directed multiple agile teams delivering digital platforms.
+Features:
 
-### Senior Frontend Developer – MDP Consulting
+- document organization
+- reminders for important procedures
+- family document management
+- structured digital archive
+
+---
+
+## 🏗 Arqui+
+
+Smart platform for automatic construction budget generation.
+
+Capabilities:
+
+- material calculations
+- time estimation
+- real-time market pricing
+- exportable budgets
+
+---
+
+# 🏢 Professional Experience
+
+
+### DIGILART
+Scrum Master / Agile Leader  
+
+Led digital platform development for education and healthcare sectors during the pandemic.
+
+---
+
+### BC TECNOLOGIA
+Senior Frontend Developer  
+
+Led the redesign of the bank's web platform, improving navigation, usability and performance.
+
+---
+
+###  MDP Consulting
+Senior Frontend Developer
+
 Defined frontend architecture and engineering standards.
-
----
-
-# 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Baracoj&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baracoj&layout=compact)
 
 ---
 
 # 🧭 Currently Building
 
-🦷 DENTSI — SaaS for dental clinics  
-📄 TramiPlus — document management system  
-🏗 Arqui+ — AI-assisted construction budgeting  
+🦷 **DENTSI** — SaaS for dental clinic management  
+📄 **TramiPlus** — personal document management system  
+🏗 **Arqui+** — AI-assisted construction budgeting platform  
 
 ---
 
-# 🤝 Open to
+# 📚 Areas of Expertise
 
-• Tech Lead roles  
-• Engineering Management  
-• SaaS Architecture  
-• Agile Delivery Leadership  
+Frontend Architecture  
+Agile Delivery Leadership  
+Product Development  
+SaaS Platforms  
+UX Optimization  
+Performance Engineering  
+
+---
+
+# 🤝 Open for Collaboration
+
+I’m open to collaborating on:
+
+✔ SaaS product development  
+✔ Tech Lead roles  
+✔ Engineering Management  
+✔ frontend architecture consulting  
+✔ Agile delivery leadership  
+✔ scalable web applications  
 
 ---
 
 # 📫 Contact
 
-LinkedIn  
-Email  
-Portfolio
+<p align="center">
+
+<a href="mailto:jcarlos.ramirez@live.com">
+<img src="https://img.shields.io/badge/Email-jcarlos.ramirez%40live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/jcarlosrb" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Carlos%20Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Feel free to explore my repositories and projects.
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer"/>
+</p>
