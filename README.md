@@ -1,7 +1,7 @@
-<!-- BANNER -->
+<!-- BANNER SUPERIOR -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=220&section=header&text=Carlos%20%7C%20Senior%20Frontend%20Engineer&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=240&section=header&text=Carlos%20%7C%20Senior%20Frontend%20Engineer&fontSize=42&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">
@@ -9,40 +9,42 @@ Senior Frontend Developer • Agile Delivery Leader • Scrum Master
 </h2>
 
 <p align="center">
-Construyo productos digitales escalables, optimizados y centrados en el usuario.
+Arquitectura Frontend • SaaS Platforms • Agile Leadership
 </p>
 
 <p align="center">
-Arquitectura Frontend • Agile Delivery • Performance Web • SaaS Platforms
+
+![](https://komarev.com/ghpvc/?username=Baracoj&color=blue)
+
 </p>
 
 ---
 
-# 👨‍💻 Sobre mí
+# 👨‍💻 About Me
 
-Soy **Senior Frontend Developer y Agile Delivery Leader** con experiencia construyendo plataformas digitales para sectores como:
+I am a **Senior Frontend Developer and Agile Delivery Leader** with experience building digital platforms for:
 
-- banca
-- educación
-- salud
-- productos SaaS
+- financial institutions
+- education platforms
+- healthcare systems
+- SaaS products
 
-Me especializo en **arquitecturas frontend escalables, optimización de performance y liderazgo de equipos ágiles**.
+My work focuses on **scalable frontend architecture, user-centric design, and high-performance web applications**.
 
-He trabajado en proyectos que requerían **alta confiabilidad, experiencia de usuario avanzada y entrega continua de valor**.
-
----
-
-# 🚀 Impacto Profesional
-
-✔ Rediseño completo de portales financieros mejorando UX y performance  
-✔ Liderazgo de equipos Scrum enfocados en entrega de valor  
-✔ Implementación de arquitecturas frontend modernas  
-✔ Desarrollo de plataformas SaaS multiusuario  
+I also lead agile teams to **deliver continuous value and improve product delivery metrics**.
 
 ---
 
-# 🧠 Stack Tecnológico
+# 🚀 Professional Impact
+
+✔ Led frontend architecture redesigns for banking platforms  
+✔ Improved UX and performance in large-scale web systems  
+✔ Guided agile teams using Scrum and Agile delivery practices  
+✔ Built SaaS platforms with multi-tenant architecture  
+
+---
+
+# 🧠 Tech Stack
 
 <p align="center">
 
@@ -52,7 +54,7 @@ He trabajado en proyectos que requerían **alta confiabilidad, experiencia de us
 
 ---
 
-# 📊 Estadísticas de desarrollo
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -74,102 +76,128 @@ He trabajado en proyectos que requerían **alta confiabilidad, experiencia de us
 
 ---
 
-# 🧩 Proyectos Destacados
+# 📈 Contribution Activity
+
+<p align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Baracoj&theme=github-compact)
+
+</p>
+
+---
+
+# 🧩 Featured Projects
 
 ## 🦷 DENTSI
 
-Plataforma SaaS para gestión de clínicas dentales.
+SaaS platform for dental clinic management.
 
-Características principales:
+Key features:
 
-- gestión de pacientes
-- autenticación segura
-- arquitectura multiusuario
-- backend serverless
-- dashboard clínico
+- patient management
+- secure authentication
+- multi-user architecture
+- cloud backend
+- medical dashboards
 
 ---
 
 ## 📄 TramiPlus
 
-Aplicación para gestión de documentos personales y trámites.
+Document management platform for personal and family documentation.
 
-Incluye:
+Features:
 
-- organización documental
-- recordatorios inteligentes
-- almacenamiento estructurado
-- gestión familiar de documentos
+- document organization
+- reminders for important procedures
+- family document management
+- structured digital archive
 
 ---
 
 ## 🏗 Arqui+
 
-Plataforma inteligente para generación automática de presupuestos de construcción.
+Smart platform for automatic construction budget generation.
 
-Funcionalidades:
+Capabilities:
 
-- cálculo automático de materiales
-- estimación de tiempos de obra
-- integración con precios de mercado
-- exportación de presupuestos
+- material calculations
+- time estimation
+- real-time market pricing
+- exportable budgets
 
 ---
 
-# 🏢 Experiencia
+# 🏢 Professional Experience
 
-**Inteligo Bank**  
+### Inteligo Bank
 Senior Frontend Developer  
-Rediseño completo del portal del banco, mejorando UX, navegación y rendimiento.
 
-**Digilart**  
+Led the redesign of the bank's web platform, improving navigation, usability and performance.
+
+---
+
+### Digilart
 Scrum Master / Agile Leader  
-Implementación de soluciones digitales para educación y salud durante la pandemia.
 
-**SUNAT / Consultoría tecnológica**  
-Desarrollo frontend y soluciones digitales.
+Led digital platform development for education and healthcare sectors during the pandemic.
 
 ---
 
-# 📈 Filosofía de trabajo
+### SUNAT / Technology Consulting
 
-Creo en construir software con tres pilares:
-
-**claridad de arquitectura**  
-**entrega continua de valor**  
-**experiencia de usuario excepcional**
+Frontend development and digital platform solutions.
 
 ---
 
-# 🤝 Colaboración
+# 🧭 Currently Building
 
-Estoy abierto a colaborar en:
-
-- proyectos SaaS
-- liderazgo técnico frontend
-- consultoría Agile
-- arquitectura de productos digitales
+🦷 **DENTSI** — SaaS for dental clinic management  
+📄 **TramiPlus** — personal document management system  
+🏗 **Arqui+** — AI-assisted construction budgeting platform  
 
 ---
 
-# 📫 Contacto
+# 📚 Areas of Expertise
 
-Si quieres trabajar conmigo o conversar sobre tecnología:
+Frontend Architecture  
+Agile Delivery Leadership  
+Product Development  
+SaaS Platforms  
+UX Optimization  
+Performance Engineering  
+
+---
+
+# 🤝 Open for Collaboration
+
+I’m open to collaborating on:
+
+✔ SaaS product development  
+✔ frontend architecture consulting  
+✔ Agile delivery leadership  
+✔ scalable web applications  
+
+---
+
+# 📫 Contact
+
+If you'd like to collaborate or discuss a project:
 
 LinkedIn  
 Email  
-Portafolio
+Portfolio
 
 ---
 
 <p align="center">
 
-⭐ Si alguno de mis proyectos te parece interesante, no olvides explorarlos.
+⭐ Feel free to explore my repositories and projects.
 
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer"/>
 </p>
