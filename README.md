@@ -1,7 +1,7 @@
 <!-- BANNER SUPERIOR -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=240&section=header&text=José Carlos%20%7C%20Senior%20Frontend%20Engineer&fontSize=42&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=240&section=header&text=José%20Carlos%20%7C%20Senior%20Frontend%20Engineer&fontSize=42&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">
