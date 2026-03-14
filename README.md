@@ -1,7 +1,7 @@
 <!-- BANNER SUPERIOR -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=240&section=header&text=Carlos%20%7C%20Senior%20Frontend%20Engineer&fontSize=42&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=240&section=header&text=José Carlos%20%7C%20Senior%20Frontend%20Engineer&fontSize=42&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">
@@ -42,7 +42,6 @@ I also lead agile teams to **deliver continuous value and improve product delive
 ✔ Guided agile teams using Scrum and Agile delivery practices  
 ✔ Built SaaS platforms with multi-tenant architecture  
 
----
 ---
 
 # 🚀 Career Impact
